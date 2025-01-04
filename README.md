@@ -25,4 +25,4 @@ On the same dataset with the same (when it possible) hyperparameters:
 - Conv1d: 43.785 dev loss;
 - LSTM: 27.848 dev loss.
 
-Not a wonderful results, but as soon as used architectures are really simple, it's not an awful start neither. Will be going towards better solutions pretty much soon.
+Not a wonderful results, but as soon as architectures I use there are really simple, it's not an awful start neither. Will be going towards better solutions pretty much soon.
