@@ -1,6 +1,6 @@
 # Text generation
 
-I've completed week 3 SHAD tasks. It shows a few base ways to generate a new texts based on a huge corpus.
+I've completed week 3 YSDA tasks. It shows a few base ways to generate a new texts based on a huge corpus.
 
 ### NGram
 
